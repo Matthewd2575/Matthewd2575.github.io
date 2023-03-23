@@ -1,0 +1,62 @@
+h1 {
+    color:rgb(38, 0, 255);
+    text-align: center;
+     font-size: 40px;
+}
+#Homer.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#Homer Audio.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#White Gaming PC.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+p{
+    float: center;
+    color:rgb(43, 255, 0);
+    font-size: 24px;
+}
+
+#CPU{
+    float: left right bottom;    
+ margin: 0 0 0 25px;
+}
+#GPU{
+    float: left right bottom;    
+ margin: 0 0 0 160px;
+}
+#RAM{
+    float: left right bottom;    
+ margin: -100px 50px 0 15px;
+}
+#PSU{
+    float: right left top bottom;    
+ margin: 225px 0 0 50px;
+ }
+#MOBO{
+    float: right left top bottom;    
+    margin: 0 0 0 275px;
+}
+#PC CASE{
+    float: right top bottom;
+    margin: 0 100 0 100px;
+}
+
+body {
+    background-image: url('https://media3.giphy.com/media/xT9IguW7N6rBaKOgow/giphy.gif?cid=ecf05e47j7zfupquk4plwja3f2kwzcwarnnepp9a41wfip5s&rid=giphy.gif&ct=g');
+    
+}
+li{
+    color:rgb(122, 6, 255);
+    text-align: left;
+     font-size: 24px;
+}
