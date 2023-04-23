@@ -32,7 +32,34 @@ p{
     width: 50%;
   
   }
+  .centermobo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
   
+  }
+  .centercase{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  
+  }
+  .centerpsu{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  
+  }
+  .centerram{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  
+  }
 
 #CPU{
     float: left right bottom;    
@@ -52,7 +79,7 @@ p{
  }
 #MOBO{
     float: right left top bottom;    
-    margin: 0 0 0 275px;
+    margin: 0 0 0 270px;
 }
 #PC CASE{
     float: right top bottom;
