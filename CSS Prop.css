@@ -67,7 +67,7 @@ body {
 
 }
 li{
-    color:rgb(122, 6, 255);
+    color:rgb(101, 224, 255);
     text-align: left;
      font-size: 24px;
 }
@@ -90,4 +90,10 @@ a:link {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+  }
+  
+  #menuspace a{
+  
+   margin: 0 20px; 
+   font-size: 20px
   }
